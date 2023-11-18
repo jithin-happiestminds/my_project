@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[691],{7200:function(e,t,s){s.r(t),s.d(t,{Head:function(){return i}});var n=s(7294);const a={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};t.default=()=>n.createElement("main",{style:a},"Hm Jithin .com");const i=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-44a6a2e3a8d1dd0c3ba2.js.map
